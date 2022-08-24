@@ -1,0 +1,18 @@
+h1{color:#DEB887;font-size: larger;}
+p{color:#FFEBCD}
+body{background-color: #0f9bb3;}
+h2{color:#DEB887;font-size: medium;}
+a{text-decoration: none;color: #B0E0E6;font-style: italic;}
+a:hover{color:#00008B;font-size: 1.1em;}
+a:active{text-decoration: underline;}
+li{list-style: none;}
+h3{font-size: medium;color:#DEB887;}
+
+img{width: 120px;height: 100px;}
+#Weather{color:#00008B;font-size: larger;font-weight: bolder;}
+#Predators{color:#00008B;font-size: larger;font-weight: bolder;}
+
+#Weather2{background-image: url(/Sky\ clouds.jpg);}
+
+
+#Predators2{background-color: purple}
